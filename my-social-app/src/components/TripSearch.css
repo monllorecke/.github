@@ -1,0 +1,36 @@
+/* src/components/TripSearch.css */
+
+.TripSearch {
+    padding: 20px;
+  }
+  
+  .TripSearch h2 {
+    margin-bottom: 20px;
+  }
+  
+  .TripSearch form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .TripSearch input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .TripSearch button {
+    background-color: #388e3c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .TripSearch button:hover {
+    background-color: #2e7d32;
+  }
+  

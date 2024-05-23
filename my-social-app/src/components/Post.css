@@ -1,0 +1,26 @@
+/* src/components/Post.css */
+
+.Post {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Post-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .Post-content {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .Post-date {
+    font-size: 12px;
+    color: #999;
+  }
+  

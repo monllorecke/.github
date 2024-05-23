@@ -1,0 +1,36 @@
+/* src/components/PackageSearch.css */
+
+.PackageSearch {
+    padding: 20px;
+  }
+  
+  .PackageSearch h2 {
+    margin-bottom: 20px;
+  }
+  
+  .PackageSearch form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .PackageSearch input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .PackageSearch button {
+    background-color: #388e3c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .PackageSearch button:hover {
+    background-color: #2e7d32;
+  }
+  
